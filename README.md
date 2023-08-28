@@ -1,4 +1,4 @@
-# PoshChat: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher (2023)
+# PoshChat: A Real-Time messaging app
 
 This project is developed using Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher.
 
